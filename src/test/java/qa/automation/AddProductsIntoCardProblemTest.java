@@ -8,7 +8,6 @@ import org.testng.annotations.Test;
 import pages.LoginPage;
 import pages.ProductsPage;
 import utils.CsvHelper;
-
 import java.io.IOException;
 
 public class AddProductsIntoCardProblemTest extends TestUtil {
